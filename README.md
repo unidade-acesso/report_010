@@ -1,9 +1,9 @@
 ---
-website: "Entidade Nacional para o Sector Energético"          # Entre as aspas escreve o nome do website
-date: "04/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "[https://www.ense-epe.pt/acessibilidade/](https://www.ense-epe.pt/acessibilidade/)"   # Entre as aspas escreve o domínio do website
-owner: "ENSE"         # Entre as aspas escrever o nome do owner do website
-seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+website:"Entidade Nacional para o Sector Energético"          # Entre as aspas escreve o nome do website
+date:"04/12/2025"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+uri:"[https://www.ense-epe.pt/acessibilidade/](https://www.ense-epe.pt/acessibilidade/)"   # Entre as aspas escreve o domínio do website
+owner:"ENSE-EPE"         # Entre as aspas escrever o nome do owner do website
+seal:"Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}

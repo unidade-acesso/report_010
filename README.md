@@ -8,10 +8,10 @@ seal: "_Prata_"                          # Entre as aspas escreve Bronze, Prata 
 
 # {{ page.website }}
 
-- Data de criação: {{ page.date }}
-- URL: {{ page.uri }}
-- Propriedade: {{ page.owner }}
-- Candidatura: {{ page.seal }}
+- Data de criação: 10/12/2024
+- URL: https://www.ense-epe.pt/
+- Propriedade: ENSE-EPE
+- Candidatura: Prata
 
 ## Relatório de Auditoria
 

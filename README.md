@@ -15,7 +15,7 @@ seal: "_Prata_"                          # Entre as aspas escreve Bronze, Prata 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+Consulte aqui a última atualização: [Relatório da Auditoria da Entidade Nacional para o Sector Energético](10122025_relatorio_report_010.html)
 
 <details>
   <summary>Histórico de atualizações</summary>

@@ -6,7 +6,7 @@ owner: "ENSE-EPE"         # Entre as aspas escrever o nome do owner do website
 seal: "_Prata_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
-# {{ page.website }}
+# Entidade Nacional para o Sector Energético ENSE-EPE
 
 - Data de criação: 10/12/2024
 - URL: https://www.ense-epe.pt/

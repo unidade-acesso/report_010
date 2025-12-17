@@ -15,11 +15,11 @@ seal: "_Prata_"                          # Entre as aspas escreve Bronze, Prata 
 
 ## Relatório de Auditoria
 
-Consulte aqui a última atualização: [Relatório da Auditoria da Entidade Nacional para o Sector Energético](10122025_relatorio_report_010.html)
+Consulte aqui a última atualização: [Relatório da Auditoria da Entidade Nacional para o Sector Energético](17122025_relatorio_report_010.html)
 
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+    <li><a href="10122025_relatorio_report_010.html">(10/12/2025). Relatório ENSE-EPE</a></li>
   </ul>
 </details>

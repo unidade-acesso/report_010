@@ -8,7 +8,7 @@ seal: "_Prata_"                          # Entre as aspas escreve Bronze, Prata 
 
 # Entidade Nacional para o Sector Energético ENSE-EPE
 
-- Data de criação: 10/12/2024
+- Data de criação: 10/12/2025
 - URL: https://www.ense-epe.pt/
 - Propriedade: ENSE-EPE
 - Candidatura: Prata
